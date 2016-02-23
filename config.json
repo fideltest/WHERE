@@ -25,7 +25,7 @@
 	"hostname": "https://where-tutorial.herokuapp.com",
 	"examples": [{
 		"url": "denkmalschutzobjekte/ /Baujahr>=1920&Baujahr<=1925",
-		"description": "Denkmalschutzobjekte gebaut zwischen 1920 und 1925"
+		"description":  "Denkmalschutzobjekte gebaut zwischen 1920 und 1925"
 	}, {
 		"url": "baumkataster/8.526248931884766,47.363245989634336;8.526248931884766,47.37649961666246;8.547019958496094,47.37649961666246;8.547019958496094,47.363245989634336/",
 		"description": "Denkmalschutzobjekte innerhalb angegebener Koordinaten"
